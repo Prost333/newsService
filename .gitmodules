@@ -1,0 +1,9 @@
+[submodule "comments/ru.clevertec.comment"]
+	path = comments/ru.clevertec.comment
+	url = https://github.com/Prost333/ru.clevertec.comment
+[submodule "news/ru.clevertec.News"]
+	path = news/ru.clevertec.News
+	url = https://github.com/Prost333/ru.clevertec.News
+[submodule "user/ru.clevertec.userClient"]
+	path = user/ru.clevertec.userClient
+	url = https://github.com/Prost333/ru.clevertec.userClient
